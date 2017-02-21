@@ -15,7 +15,7 @@ google_analytics_id: ''
 navigation: 1
 
 # URL to source code, used in _includes/footer.html
-codeurl: 'http://github.com/wendwarge/textilebootcamp'
+codeurl: 'http://wendwarge.github.io'
 
 # Default categories (in order) to appear in the navigation
 sections: [
