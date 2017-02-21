@@ -1,5 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
 title: 'Wendy Neale Textile Bootcamp 2017'
+
 subtitle: 'superfun DIYbio, textiles and digifab'
 
 # if you wish to integrate disqus on pages set your shortname here
@@ -20,7 +21,7 @@ codeurl: 'http://wendwarge.github.io'
 # Default categories (in order) to appear in the navigation
 sections: [
     ['about', 'About Me'],
-    ['projects', 'Projects'],
+    ['posts', 'Posts'],
     ['final', 'Final Project']
 ]
 
