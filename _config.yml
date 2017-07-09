@@ -20,7 +20,7 @@ codeurl: 'http://github.com/wendwarge/wendwarge.github.io'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['about', 'About Me'],
+    ['about', 'About'],
     ['posts', 'Posts'],
     ['final', 'Final Project']
 ]
